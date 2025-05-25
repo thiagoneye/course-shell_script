@@ -8,3 +8,4 @@ Shell Script Studies.
 - variables.sh
 - conditionals.sh
 - loops.sh
+- good_practices.txt
