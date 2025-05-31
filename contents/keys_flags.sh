@@ -33,7 +33,7 @@ while test -n "$1"; do
     -v) echo "$VERSION" && exit 0 ;;
     -s) KEY_SORT=1 ;;
     -m) KEY_UPPER=1 ;;
-    *) echo "Invalid Input. Show the -h option." && exit 1 ;;
+    *) echo "Invalid Input. See the -h option." && exit 1 ;;
     esac
     shift # Switch inputs via the $1 variable
 done
